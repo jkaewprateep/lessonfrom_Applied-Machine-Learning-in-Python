@@ -15,6 +15,7 @@ University of Michigan - Applied Machine Learning in Python - notes
 🦭💬 There are natural axes which are the expectation axis and common features we need setup a cort that creates the most possibility to bring our zero to the target. </br>
 🐯💬 It is a visual eye for near and far side expectations, and it does not require actual scales when it is power scales. </br>
 🐑💬 ➰ From the graph there are potential points in ranges and moving they are changing in location related to the source of the observation, remarks of labels.
+🐨🎁🎵🎶 This is called specialized effects because technology is built from our expected domain and working environment, newly discovered or secrete tabs have more effects against specialist effects when specialists are required to build manageable technologies.
 
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/03.png">
