@@ -32,7 +32,11 @@ University of Michigan - Applied Machine Learning in Python - notes
 </p>
 
 ## 🧸💬 How does recall effects learning rates and output result from control function?
-![Alt text](https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/05.png?raw=true "Title")
+🐨🎁🎵🎶 A percentage success is not the highest accuracy estimation number but effective of costs and responsible functions with correct degree calculation. </br>
+
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/05.png">
+</p>
 
 ## 🧸💬 Precision recall curve and estimates value by graph linearity for example prediction output of the function for value of specific control values input.
 ![Alt text](https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/06.png?raw=true "Title")
