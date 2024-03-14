@@ -3,7 +3,8 @@ University of Michigan - Applied Machine Learning in Python - notes
 
 ## 🧸💬 What are prediction scores and why are the provided prediction scores not equal to the summation of the error square of scores and prediction?
 💃( 👩‍🏫 )💬 We need representing values because it is not a measurement but a representation of the same method and from the expecting method, communication values are not correct values in mathematics but it is meaning in most cases. </br>
-👧💬 🎈 The first scores function values in the green graph 🟢 of the second couple graph is the addition of scores without weights and the orange graph 🟠 of the third graph is distribution weights.
+👧💬 🎈 The first scores function values in the green graph 🟢 of the second couple graph is the addition of scores without weights and the orange graph 🟠 of the third graph is distribution weights. </br>
+
 ![Alt text](https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/01.png?raw=true "Title")
 
 ## 🧸💬 Why periodic function steps help with prediction location and tricks.
