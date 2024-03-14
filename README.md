@@ -7,6 +7,7 @@ University of Michigan - Applied Machine Learning in Python - notes
 🐐💬 Yes, it is but how do we compare the prediction scores directly with the evaluation scores⁉️ She intends to tell you it is a prediction score from a function, not actual values⁉️ </br>
 🦤💬 That is because often ```mistakes created when directly compared to prediction scores from different problem statements``` that is because they may lead to similar closed values but from the different domains, we try to improve both accuracy and precision when the number is stepping closer relations. </br>
 
+
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/01.png">
 </p>
@@ -17,6 +18,7 @@ University of Michigan - Applied Machine Learning in Python - notes
 🐑💬 ➰ From the graph there are potential points in ranges and moving they are changing in location related to the source of the observation, remarks of labels. </br>
 🐨🎁🎵🎶 This is called ```specialized effects``` because technology is built from our expected domain and working environment, newly discovered or secrete tabs have more effects against specialist effects when specialists are required to build manageable technologies. </br>
 
+
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/03.png">
 </p>
@@ -26,6 +28,7 @@ University of Michigan - Applied Machine Learning in Python - notes
 🦤💬 To succeed we cannot directive the action wind strikes and collision domain to work on the true object, we had this small capability in our calculation called work resistances as coefficients of the quadratic functions. ( The picture is a simulation and it could happen fast or as long as manufacturing designs ) </br>
 👧💬 🎈 Most effective is not the most variables but it is the most precise target as objective required because pieces of equipment are controlled by humans. </br>
 🐐💬 They are challenging on fast responsive feedback systems and automatically work when sometimes the most stable ( dull ) perform the perfect task on this. </br>
+
 
 <p align="center" width="100%">
     <img width="75%" src="https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/04.png">
@@ -43,7 +46,12 @@ University of Michigan - Applied Machine Learning in Python - notes
 </p>
 
 ## 🧸💬 Precision recall curve and estimates value by graph linearity for example prediction output of the function for value of specific control values input.
-![Alt text](https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/06.png?raw=true "Title")
+🐑💬 ➰ Effective learning is not from one source of its inputs because learning from potential knowledge with memory can help develop into a more accurate number in a higher degree faster than only one source input or empty learning. In the experiments folding validation and multiple sources of the same categories can explain the training data overfits problem because we build tools as utilities. ( 🐐💬 Tools are made for specific purposes and Utilities are made for specific missions ) </br>
+
+
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/06.png">
+</p>
 
 ## 🧸💬 Heats mapping of liner distribution, global linear distribution display of weight, and labels matrix ( GridSearch ).
 ![Alt text](https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/07.png?raw=true "Title")
