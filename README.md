@@ -56,7 +56,14 @@ University of Michigan - Applied Machine Learning in Python - notes
 </p>
 
 ## 🧸💬 Heats mapping of liner distribution, global linear distribution display of weight, and labels matrix ( GridSearch ).
-![Alt text](https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/07.png?raw=true "Title")
+🧸💬 The localization of statistics is called L1 and L2, they can have as many localization of statistics as the design model requires but the purpose is to find significant data from a set of repeating data to
+save time in calculation, and sometimes multiple of layers help identify of the objects. Similar to a camera lens layers to find the aligned line of objects in the landscapes. </br>
+
+
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/07.png">
+</p>
+
 
 ## 🐑💬 ➰ Regression problem with regression models ##
 🐑💬 ➰ This is not fool or tricks you but it is how we deal with the problem with linear-regression model and linear regression method, you may apply both SGD momentums. logistics and Adam. </br>
