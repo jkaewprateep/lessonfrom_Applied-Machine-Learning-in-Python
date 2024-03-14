@@ -12,7 +12,8 @@ University of Michigan - Applied Machine Learning in Python - notes
 </p>
 
 ## 🧸💬 Why periodic function steps help with prediction location and tricks.
-🦭💬 There are natural axes which are the expectation axis and common features we need to setup a cort that creates the most possibility to bring our zero to target.
+🦭💬 There are natural axes which are the expectation axis and common features we need setup a cort that creates the most possibility to bring our zero to the target.
+🦁💬 It is a visual eye for near and far sides expectations, and it does not require actual scales when it is power scales.
 
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/03.png">
