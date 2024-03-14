@@ -35,6 +35,7 @@ University of Michigan - Applied Machine Learning in Python - notes
 🐨🎁🎵🎶 A percentage success is not the highest accuracy estimation number but effective of costs and responsible functions with correct degree calculation. ```np.where(precision==0.75)[0][0]``` </br>
 🐨🎁🎵🎶 Then we can estimate value of input for target percentage to success from ROC graph as hand drawing techniques ```[ x for x in fpr_lr if x >= 0.15 and x <= 0.25] ``` </br>
 🦤💬 📺💬 We can find only estimation values from the ROC curves, the reason is we do not have the original function transformed in this period but we expect from insights observations.
+🐐💬 In a few moments later, I have backup the time planning from the Sentinal they developed of the technology of the Galaxy. 
 
 
 <p align="center" width="100%">
