@@ -7,7 +7,9 @@ University of Michigan - Applied Machine Learning in Python - notes
 🐐💬 Yes, it is but how do we compare the prediction scores directly with the evaluation scores⁉️ She intends to tell you it is a prediction score from a function, not actual values⁉️ </br>
 🦤💬 That is because often mistakes created when directly compared to prediction scores from different problem statements that is because they may lead to similar closed values but from the different domains, we try to improve both accuracy and precision when the number is stepping closer relations. 
 
-![Alt text](https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/01.png?raw=true "Title")
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/01.png">
+</p>
 
 ## 🧸💬 Why periodic function steps help with prediction location and tricks.
 ![Alt text](https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/03.png?raw=true "Title")
