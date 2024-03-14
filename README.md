@@ -48,7 +48,7 @@ University of Michigan - Applied Machine Learning in Python - notes
 ## 🧸💬 Precision recall curve and estimates value by graph linearity for example prediction output of the function for value of specific control values input.
 🐑💬 ➰ Effective learning is not from one source of its inputs because learning from potential knowledge with memory can help develop into a more accurate number in a higher degree faster than only one source input or empty learning. In the experiments folding validation and multiple sources of the same categories can explain the training data overfits problem because we build tools as utilities. ( 🐐💬 Tools are made for specific purposes and Utilities are made for specific missions ) </br>
 💃( 👩‍🏫 )💬 Developing LSTM or re-current networks with logical gates select to remember and forget of learning is to elevate of model learning rate and new level of accuracy but not success and costs of computational in the beginning make it not as fast as developed as it should until now. The recurrent networks become more interesting again with sequential problems when they are led in object location matrix and prediction with the same computational power required. </br>
-🐨🎁🎵🎶 There are many things backside the console including knowing of the recurrent and response feedback because working with equipment is potential knowledge, ```equipment-based scenarios```.
+🐨🎁🎵🎶 There are many things backside the console including knowing of the recurrent and response feedback because working with equipment is potential knowledge, ```equipment-based scenarios```. </br>
 
 
 <p align="center" width="100%">
@@ -59,7 +59,8 @@ University of Michigan - Applied Machine Learning in Python - notes
 ![Alt text](https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/07.png?raw=true "Title")
 
 ## 🐑💬 ➰ Regression problem with regression models ##
-🐑💬 ➰ This is not fool or tricks you but it is how we deal with the problem with linear-regression model and linear regression method, you may apply both SGD momentums. logistics and Adam.
+🐑💬 ➰ This is not fool or tricks you but it is how we deal with the problem with linear-regression model and linear regression method, you may apply both SGD momentums. logistics and Adam. </br>
+🐨🎁🎵🎶 Do not tell anyone there is the same regression function as in Tensorflow but they do not tell you they want you to use ```GridSearch``` </br>
 ```
 from sklearn.neural_network import MLPClassifier
 from sklearn.preprocessing import MinMaxScaler, PowerTransformer, StandardScaler, RobustScaler, QuantileTransformer, MaxAbsScaler, Normalizer
