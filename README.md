@@ -12,7 +12,11 @@ University of Michigan - Applied Machine Learning in Python - notes
 </p>
 
 ## 🧸💬 Why periodic function steps help with prediction location and tricks.
-![Alt text](https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/03.png?raw=true "Title")
+🦭💬 There are natural axes which are the expectation axis and common features we need to setup a cort that creates the most possibility to bring our zero to target.
+
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/03.png">
+</p>
 
 ## 🧸💬 What are quadratic functions and what are coefficients order and priority?
 ![Alt text](https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/04.png?raw=true "Title")
