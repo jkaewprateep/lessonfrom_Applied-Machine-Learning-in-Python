@@ -57,7 +57,8 @@ University of Michigan - Applied Machine Learning in Python - notes
 
 ## 🧸💬 Heats mapping of liner distribution, global linear distribution display of weight, and labels matrix ( GridSearch ).
 🧸💬 The localization of statistics is called L1 and L2, they can have as many localization of statistics as the design model requires but the purpose is to find significant data from a set of repeating data to
-save time in calculation, and sometimes multiple of layers help identify of the objects. Similar to a camera lens layers to find the aligned line of objects in the landscapes. </br>
+save time in calculation, and sometimes multiple layers help identify of the objects. Similar to a camera lens layers to find the aligned line of objects in the landscapes. </br>
+🦤💬 There are professors from Universities and high technology companies who still use the Normalized layers for convolution networks, the same results are provided but it is significantly work from experiences and understanding by many tool equipment, researchers, and experienced photographers. </br>
 
 
 <p align="center" width="100%">
