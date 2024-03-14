@@ -32,7 +32,9 @@ University of Michigan - Applied Machine Learning in Python - notes
 </p>
 
 ## 🧸💬 How does recall effects learning rates and output result from control function?
-🐨🎁🎵🎶 A percentage success is not the highest accuracy estimation number but effective of costs and responsible functions with correct degree calculation. </br>
+🐨🎁🎵🎶 A percentage success is not the highest accuracy estimation number but effective of costs and responsible functions with correct degree calculation. ```np.where(precision==0.75)[0][0]``` </br>
+🐨🎁🎵🎶 Then we can estimate value of input for target percentage to success from ROC graph as hand drawing techniques ```[ x for x in fpr_lr if x >= 0.15 and x <= 0.25] ``` </br>
+
 
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/05.png">
