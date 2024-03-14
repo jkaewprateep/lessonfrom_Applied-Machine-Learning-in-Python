@@ -9,6 +9,8 @@ University of Michigan - Applied Machine Learning in Python - notes
 
 ## 🧸💬 What are quadratic functions and what are coefficients order and priority?
 ![Alt text](https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/04.png?raw=true "Title")
+
+## 🧸💬 Precision recall curve and estimates value by graph linearity for example prediction output of the function for value of specific control values input.
 ![Alt text](https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/05.png?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/06.png?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/07.png?raw=true "Title")
