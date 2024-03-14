@@ -22,7 +22,11 @@ University of Michigan - Applied Machine Learning in Python - notes
 </p>
 
 ## 🧸💬 What are quadratic functions and what are coefficients order and priority?
-![Alt text](https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/04.png?raw=true "Title")
+💃( 👩‍🏫 )💬 Prediction for accelerated actions from known databases use SGD because it is prediction, clarifies, and studies well as information and study angles are from our solution and statements.
+
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/04.png">
+</p>
 
 ## 🧸💬 How does recall effects learning rates and output result from control function?
 ![Alt text](https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/05.png?raw=true "Title")
