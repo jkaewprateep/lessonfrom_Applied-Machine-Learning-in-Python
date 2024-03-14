@@ -19,7 +19,7 @@ University of Michigan - Applied Machine Learning in Python - notes
 ## 🧸💬 Heats mapping of liner distribution, global linear distribution display of weight, and labels matrix ( GridSearch ).
 ![Alt text](https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/07.png?raw=true "Title")
 
-## Regression problem with regression models ##
+## 🐑💬 ➰ Regression problem with regression models ##
 ```
 from sklearn.neural_network import MLPClassifier
 from sklearn.preprocessing import MinMaxScaler, PowerTransformer, StandardScaler, RobustScaler, QuantileTransformer, MaxAbsScaler, Normalizer
