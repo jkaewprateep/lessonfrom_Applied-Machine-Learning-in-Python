@@ -24,7 +24,8 @@ University of Michigan - Applied Machine Learning in Python - notes
 ## 🧸💬 What are quadratic functions and what are coefficients order and priority?
 💃( 👩‍🏫 )💬 Prediction for accelerated actions from known databases use SGD because it is prediction, clarifies, and studies well as information and study angles are from our solution and statements. </br>
 🦤💬 To succeed we cannot directive the action wind strikes and collision domain to work on the true object, we had this small capability in our calculation called work resistances as coefficients of the quadratic functions. ( The picture is a simulation and it could happen fast or as long as manufacturing designs ) </br>
-👧💬 🎈 Most effective is not the most variables but it is the most precise target as objective required because pieces of equipment are controlled by humans. 
+👧💬 🎈 Most effective is not the most variables but it is the most precise target as objective required because pieces of equipment are controlled by humans. </br>
+🐐💬 They are challenging on fast responsive feedback systems and automatically work when sometimes the most stable ( dull ) perform the perfect task on this.
 
 <p align="center" width="100%">
     <img width="75%" src="https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/04.png">
