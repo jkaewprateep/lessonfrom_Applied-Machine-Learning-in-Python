@@ -20,6 +20,7 @@ University of Michigan - Applied Machine Learning in Python - notes
 ![Alt text](https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/07.png?raw=true "Title")
 
 ## 🐑💬 ➰ Regression problem with regression models ##
+🐑💬 ➰ This is not fool or tricks you but it is how we deal with the problem with linear-regression model and linear regression method, you may apply both SGD momentums. logistics and Adam.
 ```
 from sklearn.neural_network import MLPClassifier
 from sklearn.preprocessing import MinMaxScaler, PowerTransformer, StandardScaler, RobustScaler, QuantileTransformer, MaxAbsScaler, Normalizer
