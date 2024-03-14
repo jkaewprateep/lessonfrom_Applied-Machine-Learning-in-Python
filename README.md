@@ -1,2 +1,2 @@
-# lessonfrom_Applied-Machine-Learning-in-Python
-lessonfrom_applied_machine_learning_in_python
+# University of Michigan - Applied Machine Learning in Python - notes
+University of Michigan - Applied Machine Learning in Python - notes
