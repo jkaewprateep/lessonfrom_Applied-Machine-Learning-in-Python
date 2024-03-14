@@ -5,7 +5,7 @@ University of Michigan - Applied Machine Learning in Python - notes
 💃( 👩‍🏫 )💬 We need representing values because it is not a measurement but a representation of the same method and from the expecting method, communication values are not correct values in mathematics but it is meaning in most cases. </br>
 👧💬 🎈 The first scores function values in the green graph 🟢 of the second couple graph is the addition of scores without weights and the orange graph 🟠 of the third graph is distribution weights. </br>
 🐐💬 Yes, it is but how do we compare the prediction scores directly with the evaluation scores⁉️ She intends to tell you it is a prediction score from a function, not actual values⁉️ </br>
-🦤💬 That is because often mistakes created when directly compared to prediction scores from different problem statements that is because they may lead to similar closed values but from the different domains, we try to improve both accuracy and precision when the number is stepping closer relations. 
+🦤💬 That is because often ```mistakes created when directly compared to prediction scores from different problem statements``` that is because they may lead to similar closed values but from the different domains, we try to improve both accuracy and precision when the number is stepping closer relations. 
 
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/01.png">
@@ -15,7 +15,7 @@ University of Michigan - Applied Machine Learning in Python - notes
 🦭💬 There are natural axes which are the expectation axis and common features we need setup a cort that creates the most possibility to bring our zero to the target. </br>
 🐯💬 It is a visual eye for near and far side expectations, and it does not require actual scales when it is power scales. </br>
 🐑💬 ➰ From the graph there are potential points in ranges and moving they are changing in location related to the source of the observation, remarks of labels. </br>
-🐨🎁🎵🎶 This is called specialized effects because technology is built from our expected domain and working environment, newly discovered or secrete tabs have more effects against specialist effects when specialists are required to build manageable technologies.
+🐨🎁🎵🎶 This is called ```specialized effects``` because technology is built from our expected domain and working environment, newly discovered or secrete tabs have more effects against specialist effects when specialists are required to build manageable technologies.
 
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/03.png">
